@@ -179,6 +179,10 @@ header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(images/dublin.jpg);
     background-size: cover;
     background-position: center;
+    height: 150px;
+}
+
+header.index {
     height: 100vh;
 }
 
