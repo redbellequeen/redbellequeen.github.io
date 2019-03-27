@@ -369,3 +369,52 @@ footer p {
 where {
     margin-top: 45px;
 }
+
+/*--------------------------------*/
+/* TRIPS */
+/*--------------------------------*/
+
+.content {
+    padding: 0px;
+}
+
+.contennt-showcase {
+    list-style: none;
+    width: 100%;
+}
+
+.content-showcase li {
+    display: block;
+    float: left;
+    width: 25%;
+}
+
+.content-photo {
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+    background-color: #000;
+}
+
+.content-photo IMG {
+    opacity: 0.7;
+    width: 100%;
+    height: auto;
+    transform: scale(1.15);
+    transition: transform 0.5s, opacity 0.5s;
+}
+
+.content-photo IMG:hover {
+    opacity: 1;
+    transform: scale(1.03);
+}
+
+/*--------------------------------*/
+/* TRIPS */
+/*--------------------------------*/
+
+.postagem {
+    padding: 10px;
+    font-size: 18px;
+    
+}
