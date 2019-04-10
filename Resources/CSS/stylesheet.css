@@ -438,3 +438,14 @@ footer p {
     margin: 0 auto;
     display: block;
 }
+
+.form {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+.contato {
+    margin-top: 0;
+    padding-top: 0;
+}
