@@ -425,3 +425,16 @@ footer p {
     font-size: 18px;
     
 }
+
+.video {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    
+}
+
+.viagem {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
