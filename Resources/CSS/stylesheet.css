@@ -242,6 +242,7 @@ header.index {
 
 .trips {
     padding: 0px;
+    margin-bottom: 500px;
 }
 
 .trips-showcase {
@@ -366,10 +367,16 @@ footer p {
     margin-top: 20px;
 }
 
-where {
+.where-am-i {
+    float: right;
+    margin-right: 20px;
+    text-align: center;
     margin-top: 45px;
 }
 
+.about-me {
+    padding: 20px;
+}
 /*--------------------------------*/
 /* TRIPS */
 /*--------------------------------*/
